@@ -140,8 +140,11 @@ nav ul li:hover{
     min-height: 800px;
     display: flex;
     place-items: center;
-    color: white;
+    color: black;
     text-align: center;
+    filter: contrast(82%);
+    font-size: 20px;
+    font-weight:normal;
 }
 .video-section .container{
     display: flex;
